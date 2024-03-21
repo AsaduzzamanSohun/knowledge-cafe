@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "../src/assets/images/2.png",
+      "title": "Introduction to Machine Learning",
+      "author": "John Smith",
+      "author_img": "../src/assets/images/boy1.png",
+      "publish_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["#machinelearning", "#datascience", "#artificialintelligence"]
+    },
+    {
+      "id": 2,
+      "cover": "../src/assets/images/1.jpg",
+      "title": "Web Development Trends in 2024",
+      "author": "Emily Johnson",
+      "author_img": "../src/assets/images/boy2.png",
+      "publish_date": "2024-03-16",
+      "reading_time": 8,
+      "hashtags": ["#webdevelopment", "#javascript", "#frameworks"]
+    },
+    {
+      "id": 3,
+      "cover": "../src/assets/images/3.png",
+      "title": "Blockchain Technology Explained",
+      "author": "David Lee",
+      "author_img": "../src/assets/images/girl1.jpg",
+      "publish_date": "2024-03-14",
+      "reading_time": 12,
+      "hashtags": ["#blockchain", "#cryptocurrency", "#decentralization"]
+    },
+    {
+      "id": 4,
+      "cover": "../src/assets/images/4.jpg",
+      "title": "Cybersecurity Best Practices for Businesses",
+      "author": "Sarah Thompson",
+      "author_img": "../src/assets/images/girl2.jpg",
+      "publish_date": "2024-03-13",
+      "reading_time": 15,
+      "hashtags": ["#cybersecurity", "#infosec", "#dataprotection"]
+    }
+  ]
+  
